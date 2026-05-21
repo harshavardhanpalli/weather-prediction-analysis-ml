@@ -1,0 +1,78 @@
+# Weather Prediction Analysis using Machine Learning
+
+## Project Overview
+This project uses Machine Learning to analyze historical temperature data and predict future weather trends using Linear Regression.
+
+It visualizes observed temperature patterns, prediction trends, and future forecasting with professional graphical analysis.
+
+---
+
+## Features
+- Historical Temperature Analysis
+- Future Temperature Prediction
+- Professional Data Visualization
+- Trend Detection using Linear Regression
+- Forecast Highlighting with Prediction Marker
+
+---
+
+## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Linear Regression
+
+---
+
+## Dataset
+
+| Day | Temperature (°C) |
+|-----|------------------|
+| 1   | 36 |
+| 2   | 40 |
+| 3   | 40 |
+
+---
+
+## Prediction Output
+
+Predicted Temperature for Day 4:
+
+**42.67°C**
+
+---
+
+## Graph Analysis
+- Blue Dots → Observed Temperature
+- Green Line → Prediction Trend
+- Red Star → Predicted Future Temperature
+- Orange Dashed Line → Forecast Direction
+
+---
+
+## Machine Learning Workflow
+1. Data Collection
+2. DataFrame Creation
+3. Model Training
+4. Prediction Generation
+5. Visualization
+6. Forecast Analysis
+
+---
+
+## Learning Outcome
+This project demonstrates practical implementation of:
+
+- Data Analysis
+- Predictive Modeling
+- Linear Regression
+- Professional Data Visualization
+- Forecast Trend Analysis
+
+---
+
+## Author
+Harsha Vardhan
+B.Sc Computer Science
+Aspiring Data Analyst
